@@ -1,5 +1,5 @@
 # Recursive Art
-![]()
+![](https://github.com/timkchan/art/blob/master/gp.gif?raw=true)
 
 ### 1. Introduction
 This is a continuation of the project [A Scheme Interpreter].
@@ -40,11 +40,11 @@ $ python3 scheme_tokens.py contest.scm
 ### 4. Class Project Site
 [here]
 
-### 6. Extra - the CRAZIES drawing I ve ever seen:
+### 5. Extra - the CRAZIES drawing I ve ever seen:
 
 
 Tail Recursive Ray Tracer (T.R.R.T) [43.scm (1857 tokens)]
-![](http://inst.eecs.berkeley.edu/~cs61a/fa13/proj/scheme_contest_gallery/43.png)
+![](https://github.com/timkchan/art/blob/master/43.png?raw=true)
 
 [here]: <http://61a-su15-website.github.io/proj/scheme_contest/>
 [A Scheme Interpreter]: <https://github.com/timkchan/scheme>
